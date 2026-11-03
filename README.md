@@ -1,4 +1,5 @@
 Triple Biquad LPF
+
 6th-order stereo cascaded lowpass filter VST3/AU plugin built in JUCE. Three biquad stages in series, each with independent cutoff and Q controls. Coefficients written by hand from Pirkle's book.
 Controls (per stage)
 
